@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanmay Vijay !</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/portfoliotanmayvj/home](https://sites.google.com/view/portfoliotanmayvj/home)
+- 👨‍💻 All of my projects are available at [here](https://sites.google.com/view/portfoliotanmayvj/home)
 
 - 📫 How to reach me **tanmayvj10@gmail.com**
 

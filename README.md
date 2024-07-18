@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! I'm Tanmay Vijay </h1>
+<h1 align="center">Hello World!</h1><h1> I'm Tanmay Vijay </h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
 - 👨‍💻 Here's My Portfolio[🔗](https://sites.google.com/view/portfoliotanmayvj/home)

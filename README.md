@@ -1,5 +1,5 @@
 <h1 align="center">Hello World!👋 I'm Tanmay Vijay </h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A Student from India</h3>
 
 - 👨‍💻 Here's My Portfolio[🔗](https://sites.google.com/view/portfoliotanmayvj/home)
 

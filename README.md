@@ -1,11 +1,11 @@
 <h1 align="center">Hello World!👋 I'm Tanmay Vijay </h1>
 <h3 align="center">A Student from India</h3>
 
-- 👨‍💻 Here's My Portfolio[🔗](https://sites.google.com/view/portfoliotanmayvj/home)
+- 👨‍💻 Here's My Portfolio[🔗](https://portfolio-nine-xi-52.vercel.app/)
 
 - 📫 How to reach me **tanmayvj10@gmail.com**
 
-- 📄 Know about my experiences [🔗](https://drive.google.com/file/d/1i9qhld4-O4LnZ2fkk0vWW-Z8DMBXRxjT/view?usp=sharing)
+- 📄 Know about my experiences [🔗](https://drive.google.com/file/d/1p-vqkD0IxQ3R7wPsB1KVVZV0srdOZSRy/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
